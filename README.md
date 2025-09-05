@@ -1,7 +1,7 @@
 # ASCII Art Terminal Demo
 
 This project creates an animated terminal display featuring ASCII art with the "ASCII WISH" heading.
-![Output]([https://github.com/666Lynx/cursed-movie-recommendation/blob/main/1.png](https://github.com/666Lynx/Onam-Pookalam-Ascii/blob/main/image_2025-09-05_220746729.png))
+![Output]([https://github.com/666Lynx/cursed-movie-recommendation/blob/main/1.png](https://github.com/666Lynx/Onam-Pookalam-Ascii/blob/main/image_2025-09-05_220746729.png](https://github.com/666Lynx/Onam-Pookalam-Ascii/blob/main/image_2025-09-05_220746729.png?raw=true))
 
 
 ## Features
@@ -55,5 +55,6 @@ chmod +x ascii_demo.py
 - No manual intervention needed
 
 Enjoy the ASCII art demo! 🎨✨
+
 
 
