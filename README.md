@@ -1,6 +1,7 @@
 # ASCII Art Terminal Demo
 
 This project creates an animated terminal display featuring ASCII art with the "ASCII WISH" heading.
+https://github.com/666Lynx/Onam-Pookalam-Ascii/blob/main/image_2025-09-05_220746729.png
 
 ## Features
 
@@ -53,3 +54,4 @@ chmod +x ascii_demo.py
 - No manual intervention needed
 
 Enjoy the ASCII art demo! 🎨✨
+
